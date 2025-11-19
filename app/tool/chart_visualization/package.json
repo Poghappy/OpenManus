@@ -8,7 +8,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "@visactor/vchart": "^1.13.7",
+    "@visactor/vchart": "^1.13.21",
     "@visactor/vmind": "2.0.5",
     "canvas": "^2.11.2",
     "get-stdin": "^9.0.0"
