@@ -39,3 +39,5 @@ beautifulsoup4~=4.13.3
 
 huggingface-hub~=0.29.2
 setuptools~=75.8.0
+marshmallow>=3.26.2 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
